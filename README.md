@@ -14,8 +14,8 @@ The macbook 2006 has a processer is intel and mine is M1 the M1 is faster and be
 
 To recap everything:
 
-| Tables        | Are           | Cool  |
+| Type      | Macbook 2006      | My Macbook  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Processer     | Intel 2 GHz| |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
